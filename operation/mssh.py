@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#edit by yoyo20180508
 from multiprocessing import Process,Pool
 import paramiko
 import sys,os
